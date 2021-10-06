@@ -11,12 +11,12 @@ int main()
     {
         make_pair("how u doing?",[]()
         {
-            cout<<"ne znau"<<endl;
+            cout<<"good"<<endl;
         }),
 
         make_pair("hi",[]()
         {
-            cout<<"good"<<endl;
+            cout<<"greetings!"<<endl;
         })
     };
 
